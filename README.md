@@ -13,7 +13,10 @@
 
 ### Мои работы
 + Java Core. [Дипломная работа](https://github.com/zorigto82/TaskManager.git)
-+ Основы Java. [Курсовая](https://github.com/zorigto82/Converter-.git) 
++ Основы Java. [Курсовая](https://github.com/zorigto82/Converter-.git)
+
+### Мои выполненные задания во время обучения на Java-разработчик
+[Список работ](https://github.com/zorigto82?tab=repositories)
 
 ### Сертификат Нетологии
 Курс "Java-разработчик". [Certificate](https://github.com/zorigto82/zorigto82/blob/main/certificate%20об%20окончании%20обучения.pdf)
