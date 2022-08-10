@@ -17,6 +17,12 @@
 
 ### Сертификат Нетологии
 Курс "Java-разработчик". [Certificate](https://github.com/zorigto82/zorigto82/blob/main/certificate%20об%20окончании%20обучения.pdf)
+
+### Контакты
+
++ [Telegram](https://t.me/Zorigto82)
++ [WhatsApp](https://wa.me/79141354814)
++ jerzorig@gmail.com
 <!--
 **zorigto82/zorigto82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
