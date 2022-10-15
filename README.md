@@ -11,6 +11,9 @@
 Для этого прошёл курсы в Нетологии по программе "Цифровые профессии / Java разработчик с нуля." 
 Моя учёба не прекращается, сейчас прохожу курсы "Базы данных для разработчиков".
 
+### Моё резюме
+[Резюме](https://github.com/zorigto82/zorigto82/blob/main/Java-разработчик_Java%20Developer%20Жеребцов%20Зоригто.pdf)
+
 ### Мои работы
 + Java Core. [Дипломная работа](https://github.com/zorigto82/TaskManager.git)
 + Основы Java. [Курсовая](https://github.com/zorigto82/Converter-.git)
